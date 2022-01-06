@@ -7,7 +7,7 @@ I like to take up any challenge...and this was my turning point, where I really 
 
 - 👀 Coding is fun! But there's a lot more to explore though :)
 Always excited to learn Machine Learning, Deep Learning algorithms, digital twin, wearables, gaming, AR/VR etc. especially for improving patient's life & shaping the future of healthcare.  
-- 🌱 I have started with intensive ML training program... 
+- 🌱 I have started with python, game development, intensive ML training program... 
 I will share my learnings, projects I worked on in my repos soon!! (Hope this helps for beginners like me)
 
 Btw I am new to git too! Lol 
