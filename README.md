@@ -1,4 +1,4 @@
-- 👋 Hello everyone, I’m @Janani-harshu. Recently completed my Master's in Biomedical Engineering. 
+- 👋 Hello everyone, I’m Janani. Recently completed my Master's in Biomedical Engineering. 
 I had an opportunity to work at one of the most prestigious healthcare corporations - Siemens Healthineers. 
 A year-long journey has changed my perception of how healthcare is delivered globally. 
 Through the interdisciplinary work on various projects, I was able to learn more about emerging technologies and innovative processes that ensure the quality and care for everyone.
