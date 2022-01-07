@@ -5,8 +5,9 @@ Through the interdisciplinary work on various projects, I was able to learn more
 (Coming from Biomed background, I had less knowlege in progrmming, as in my currcilum was structured that way)
 I like to take up any challenge...and this was my turning point, where I really thought of upskilling myself and trying to contribute my knowledge in medical industry. 
 
-- 👀 Coding is fun! But there's a lot more to explore though :)
-Always excited to learn Machine Learning, Deep Learning algorithms, digital twin, wearables, gaming, AR/VR technologies especially for improving patient's life & shaping the future of healthcare.     
+- 👀 Coding is fun! 
+Always excited to learn Machine Learning, Deep Learning algorithms, digital twin, wearables, gaming, AR/VR technologies especially for improving patient's life & shaping the future of healthcare.
+But there's a lot more to explore though :)
 - 🌱 I have started with python, game development, intensive ML training program... 
 I will share my learnings, projects I worked on in my repos soon!! (Hope this helps for beginners like me)
 
