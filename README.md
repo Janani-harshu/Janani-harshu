@@ -6,11 +6,12 @@ Through the interdisciplinary work on various projects, I was able to learn more
 I like to take up any challenge...and this was my turning point, where I really thought of upskilling myself and trying to contribute my knowledge in medical industry. 
 
 - 👀 Coding is fun! But there's a lot more to explore though :)
-Always excited to learn Machine Learning, Deep Learning algorithms, digital twin, wearables, gaming, AR/VR technologies especially for improving patient's life & shaping the future of healthcare.  
+Always excited to learn Machine Learning, Deep Learning algorithms, digital twin, wearables, gaming, AR/VR technologies especially for improving patient's life & shaping the future of healthcare.     
 - 🌱 I have started with python, game development, intensive ML training program... 
 I will share my learnings, projects I worked on in my repos soon!! (Hope this helps for beginners like me)
 
 Btw I am new to git too! Lol 
+Apart from coding,I love to read, travel, football and photography!
 
 - 📫 Fell free to reach out via email: janjanani13@gmail.com
 
