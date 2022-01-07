@@ -2,7 +2,7 @@
 I had an opportunity to work at one of the most prestigious healthcare corporations - Siemens Healthineers. 
 A year-long journey has changed my perception of how healthcare is delivered globally. 
 Through the interdisciplinary work on various projects, I was able to learn more about emerging technologies and innovative processes that ensure the quality and care for everyone.
-(Coming from Biomed background, I had less knowlege in progrmming, as in my currcilum was structured that way)
+(Coming from Biomed background, I had less knowlege in programming, as in my currcilum was structured that way)
 I like to take up any challenge...and this was my turning point, where I really thought of upskilling myself and trying to contribute my knowledge in medical industry. 
 
 - 👀 Coding is fun! 
