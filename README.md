@@ -10,8 +10,7 @@ Always excited to learn Machine Learning, Deep Learning algorithms, digital twin
 But there's a lot more to explore though :)
 - 🌱 I have started with python, game development, intensive ML training program... 
 I will share my learnings, projects I worked on in my repos soon!! (Hope this helps for beginners like me)
-
-Btw I am new to git too! Lol 
+ 
 Apart from coding,I love to read, travel, football and photography!
 
 - 📫 Fell free to reach out via email: janjanani13@gmail.com
