@@ -1,9 +1,6 @@
-- 👋 Hello everyone, I’m Janani. Recently completed my Master's in Biomedical Engineering. 
+- 👋 Hello everyone 
 
 Always excited to learn Machine Learning, Deep Learning algorithms, digital twin, wearables, gaming, AR/VR technologies especially for improving patient's life & shaping the future of healthcare.
-
-- 📫 Fell free to reach out via email: janjanani13@gmail.com
-
 
 "Be passionate. Keep learning. Keep growing. Keep exploring. If you keep the consistency, success will knock on your door" 
 <!---
