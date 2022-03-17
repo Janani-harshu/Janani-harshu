@@ -4,7 +4,7 @@ Always excited to learn Machine Learning, Deep Learning algorithms, digital twin
 
 "Be passionate. Keep learning. Keep growing. Keep exploring. If you keep the consistency, success will knock on your door" 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Janani-harshu&show_icons=true&theme=blue-pink)  
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Janani-harshu&show_icons=true&theme=blue-green)  
 
 #![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Janani-harshu&theme=blue-green)
 
