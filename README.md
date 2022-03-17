@@ -6,7 +6,7 @@ Always excited to learn Machine Learning, Deep Learning algorithms, digital twin
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Janani-harshu&show_icons=true&theme=radical)  
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Janani-harshu&theme=moltack)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janani-harshu)](https://github.com/Janani-harshu/github-readme-stats)
 
 
 ## 😂 Here is a random joke that'll make you laugh!
