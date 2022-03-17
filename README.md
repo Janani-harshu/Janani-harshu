@@ -12,6 +12,9 @@ Always excited to learn Machine Learning, Deep Learning algorithms, digital twin
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=Janani-harshu)
+
+
 
 <!---
 Janani-harshu/Janani-harshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
