@@ -6,6 +6,12 @@ Always excited to learn Machine Learning, Deep Learning algorithms, digital twin
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Janani-harshu&show_icons=true)  
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Janani-harshu&theme=blue-green)
+
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 <!---
 Janani-harshu/Janani-harshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
