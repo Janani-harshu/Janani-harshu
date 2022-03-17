@@ -1,4 +1,4 @@
-👋 Hello everyone 
+👋 Hello everyone! Greetings of the day 
 
 Always excited to learn Machine Learning, Deep Learning algorithms, digital twin, wearables, gaming, AR/VR technologies especially for improving patient's life & shaping the future of healthcare.
 
