@@ -1,6 +1,6 @@
 👋 Hello everyone! Greetings of the day 
 
-Always excited to learn Machine Learning, Deep Learning algorithms, digital twin, wearables, gaming, AR/VR technologies especially for improving patient's life & shaping the future of healthcare.
+Always excited to learn Deep learning frameworks, Computer vision, web applications etc. shaping the future of healthcare.
 
 "Be passionate. Keep learning. Keep growing. Keep exploring. If you keep the consistency, success will knock on your door" 
 
