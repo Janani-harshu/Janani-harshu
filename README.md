@@ -4,9 +4,6 @@ Always excited to learn Deep learning frameworks, Computer vision, web applicati
 
 "Be passionate. Keep learning. Keep growing. Keep exploring. If you keep the consistency, success will knock on your door" 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Janani-harshu&show_icons=true&theme=radical)  
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janani-harshu&layout=compact)](https://github.com/Janani-harshu/github-readme-stats)
 
 
